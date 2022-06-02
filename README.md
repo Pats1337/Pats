@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Alex Terentev</h1>
+<img src="./header.png"/>
 <h4 align="center">Thanks for visiting my GitHub profile, it's great to meet you here! 😊</h3>
 
 Here are some quick things about me:
